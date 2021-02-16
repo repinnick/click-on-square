@@ -1,4 +1,4 @@
-# Clicking Square
+<h1>Click On Square</h1>
 
 <h3>Click <a href="https://repinnick.github.io/click-on-square/" target="_blank">here</a> to see the web version.</h3>
 
